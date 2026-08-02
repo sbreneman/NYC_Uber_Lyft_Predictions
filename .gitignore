@@ -1,0 +1,5 @@
+.DS_Store
+*.parquet
+*.zip
+Train data/
+nyc_ride_predictions_2024.csv
