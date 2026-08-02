@@ -13,7 +13,7 @@ The pipeline processes approximately **239 million NYC rideshare records** using
 
 ## Predicted Demand Map
 
-![Predicted Uber and Lyft trips by NYC taxi zone](NYC_Taxi_Zone_Map.png)
+[View the interactive demand map](https://sbreneman.github.io/NYC_Uber_Lyft_Predictions/NYC_Taxi_Zone_Map.html)
 
 The interactive version is available in `NYC_Taxi_Zone_Map.html`.
 
